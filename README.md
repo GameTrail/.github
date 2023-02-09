@@ -1,0 +1,2 @@
+# .github
+GameTrail organization 🎮
