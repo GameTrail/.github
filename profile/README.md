@@ -6,3 +6,9 @@ Tenemos distribuido el proyecto en 2 repositorios, uno enfocado a la creación d
 
 - [Gametrail Front](https://github.com/GameTrail/gametrail-front)
 - [Gametrail Backend](https://github.com/GameTrail/gametrail-backend)
+
+
+## Despliegues:
+
+- [Front-End (Interfaz de Usuario)](https://gametrail.vercel.app/)
+- [API Backend](https://gametrail-backend-production.up.railway.app/api/)
