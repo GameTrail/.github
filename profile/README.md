@@ -9,6 +9,6 @@ Tenemos distribuido el proyecto en 2 repositorios, uno enfocado a la creación d
 
 
 ## Despliegues:
-
+### A todos nuestros usuarios!!! 🤗 El primer enlace es la aplicación para que la podáis probar.
 - [Front-End (Interfaz de Usuario)](https://gametrail.vercel.app/)
 - [API Backend](https://gametrail-backend-production.up.railway.app/api/)
